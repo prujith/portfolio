@@ -32,7 +32,7 @@ Welcome to my Data science portfolio! Here, I document a summary of my projects 
 
 | Project Link | Involves | Project Description |
 |---|---|---|
-| ⁉ [QA with website](https://github.com/prujith/LLM-Langchain-Projects/blob/main/QA%20with%20Website.ipynb) | langchain, openai, beautifulsoup4, faiss-gpu | Built a conversational chat tool which using Langchain and OpenAI Large Language Model (LLM) for automated information retrieval. This tool takes a URL as input, makes API requests, scrapes web content using Beautiful Soup, tokenizes text, and embeds it with OpenAI Embeddings. Utilized FAISS for vector database management. Successfully delivered highly accurate and efficient results for user queries. | 
+| ⁉ [QA with website](https://github.com/prujith/LLM-Langchain-Projects/blob/main/QA%20with%20Website.ipynb) | langchain, openai, beautifulsoup4, faiss-gpu | Built a conversational chat tool using Langchain and OpenAI Large Language Model (LLM) for automated information retrieval. This tool takes a URL as input, makes API requests, scrapes web content using Beautiful Soup, tokenizes text, and embeds it with OpenAI Embeddings. Utilized FAISS for vector database management. Successfully delivered highly accurate and efficient results for user queries. | 
 
 ***
 
