@@ -1,6 +1,6 @@
 # 🗺 Prujith's Portfolio
 
-Welcome to my datascience portfolio! Here, I document a summary of my projects in the AI field.
+Welcome to my Data science portfolio! Here, I document a summary of my projects in the AI field.
 
 ## 📚 Table of Contents
 - [Machine Learning](#Machine-Learning)
