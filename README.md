@@ -21,7 +21,7 @@ Welcome to my Data science portfolio! Here, I document a summary of my projects 
 
 # Deep Learning
 
-| Project Link | Area of Analysis | Project Description | 
+| Project Link | Areas | Project Description | 
 |---|---|---|
 | ✌ [Digit Recognizer](https://github.com/prujith/DataScience_Projects/blob/main/Digit_Recognizer.ipynb) |  Checking null & missing values, Normalization, Reshape, Label encoding, Data augmentation, Convolutional Neural Networks, RMSprop optimizer, Confusion matrix Evaluation | Created a CNN from scratch to correctly identify digits from a dataset of tens of thousands of handwritten images. |
 | 👕 [Fashion MNIST](https://github.com/prujith/DataScience_Projects/blob/main/Fashion_MNIST.ipynb) | Sparse categorical crossentropy, ReLU, SoftMax, Adam optimizer, accuracy metrics | Created a model to correctly identify the label from 10 classes in an MNIST-like dataset of 70,000 28x28 labeled fashion images. |
@@ -30,7 +30,7 @@ Welcome to my Data science portfolio! Here, I document a summary of my projects 
 
 # LLM-Langchain
 
-| Project Link | Area | Project Description |
+| Project Link | Involves | Project Description |
 |---|---|---|
 | ⁉ [QA with website](https://github.com/prujith/LLM-Langchain-Projects/blob/main/QA%20with%20Website.ipynb) | langchain, openai, beautifulsoup4, faiss-gpu | Built a conversational chat tool which using Langchain and OpenAI Large Language Model (LLM) for automated information retrieval. This tool takes a URL as input, makes API requests, scrapes web content using Beautiful Soup, tokenizes text, and embeds it with OpenAI Embeddings. Utilized FAISS for vector database management. Successfully delivered highly accurate and efficient results for user queries. | 
 
@@ -38,7 +38,7 @@ Welcome to my Data science portfolio! Here, I document a summary of my projects 
 
 # Selenium
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Involves | Description |
 |---|---|---|
 | 🏄‍♂️ LinkedIn Job Automation | Selenium | Automating the Easy Apply part |
 | 🧙‍♂️ Naukri Job Automation | Selenium | Automating the job applying |
